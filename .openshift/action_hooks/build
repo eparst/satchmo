@@ -5,3 +5,6 @@
 # could be python, php, ruby, etc.
 
 # Activate VirtualEnv in order to use the correct libraries
+#$OPENSHIFT_DATA_DIR/bin/pip install --use-mirrors -r $OPENSHIFT_REPO_DIR/requirements.txt
+#pwd
+#$OPENSHIFT_HOMEDIR/python/virtenv/bin/pip install --use-mirrors -r $OPENSHIFT_REPO_DIR/requirements.txt
