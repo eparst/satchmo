@@ -1,6 +1,6 @@
 +1. rhc app create p27 
 +2. git clone 
-3. add cnage*
+3. add .openshift, wsgi, data, setup.py, readme.md
 4. git add . , commit and push to repo on openshift
 
 old:
